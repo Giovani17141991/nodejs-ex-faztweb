@@ -1,0 +1,21 @@
+{
+  "name": "project1node",
+  "version": "0.0.1",
+  "description": "deemo node",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js #app de node",
+    "dev": "nodemon src/app.js #app de node"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "gae",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
